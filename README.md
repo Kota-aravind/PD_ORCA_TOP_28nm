@@ -7,6 +7,7 @@ Block-level multi-voltage ASIC physical design with 52K cells and 40 macros. Com
 This project demonstrates block-level physical design at the 28nm technology node for a multi-voltage ASIC block with 52K standard cells and 40 macros. The design features two power domains and five clocks, covering the complete flow from floorplanning to timing signoff.
 
 ## Tools Used
+- Synopsys ICC2 Compiler
 - Synopsys Design Compiler
 - Synopsys PrimeTime
 
